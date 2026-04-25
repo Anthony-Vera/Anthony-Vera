@@ -1,3 +1,9 @@
+<!-- Banner blanco (visible en GitHub) -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=200&section=header&text=Anthony%20Vera%20Dev&fontColor=000000&fontSize=40&animation=fadeIn" />
+</p>
+
 <!-- Typing animation -->
 
 <p align="center">
@@ -29,9 +35,13 @@ Mi enfoque: **diseño + rendimiento + conversión**.
 ## Stack
 
 <p align="center">
-  HTML • CSS • JavaScript • React  
+  HTML • CSS • JavaScript • React + TypeScript  
   <br/>
-  TailwindCSS • Framer Motion • Three.js
+  Tailwind CSS • motion/react • Three.js  
+  <br/>
+  hls.js • lucide-react  
+  <br/>
+  clsx • tailwind-merge • react-use-measure
 </p>
 
 ---
@@ -53,7 +63,7 @@ Mi enfoque: **diseño + rendimiento + conversión**.
 ## Actividad
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anthony-Vera&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anthony-Vera&bg_color=ffffff&color=000000&line=000000&point=333333&area=true&hide_border=true" />
 </p>
 
 ---
