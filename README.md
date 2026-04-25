@@ -1,16 +1,10 @@
-<!-- Banner blanco (visible en GitHub) -->
+<!-- Banner (SE QUEDA TAL CUAL) -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=200&section=header&text=Anthony%20Vera%20Dev&fontColor=000000&fontSize=40&animation=fadeIn" />
 </p>
 
-<!-- Typing animation -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&width=500&lines=Anthony+Vera+Dev;Frontend+Developer;Landing+Pages+%7C+3D+%7C+UI+Moderna" />
-</p>
-
-<h1 align="center">Anthony Vera Dev</h1>
+---
 
 <p align="center">
   Desarrollador Frontend • Landing Pages • Experiencias Web Modernas
