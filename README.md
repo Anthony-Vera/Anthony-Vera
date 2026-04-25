@@ -1,5 +1,7 @@
+<!-- Typing animation -->
+
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Anthony+Vera+Dev" alt="Banner Anthony Vera Dev" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&width=500&lines=Anthony+Vera+Dev;Frontend+Developer;Landing+Pages+%7C+3D+%7C+UI+Moderna" />
 </p>
 
 <h1 align="center">Anthony Vera Dev</h1>
@@ -18,9 +20,9 @@
 
 ## Sobre mí
 
-Desarrollador enfocado en la creación de interfaces modernas, landing pages de alto impacto y experiencias web visualmente atractivas.
+Desarrollador enfocado en la creación de interfaces modernas, landing pages de alto impacto y experiencias visuales.
 
-Trabajo con un enfoque claro: **diseño + rendimiento + conversión**.
+Mi enfoque: **diseño + rendimiento + conversión**.
 
 ---
 
@@ -37,15 +39,13 @@ Trabajo con un enfoque claro: **diseño + rendimiento + conversión**.
 ## Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anthony-Vera&show_icons=true&hide_border=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anthony-Vera&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000" height="160"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-Vera&layout=compact&hide_border=true&title_color=000000&text_color=000000&bg_color=ffffff" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-Vera&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000" height="160"/>
 </p>
 
 <p align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anthony-Vera\&theme=meta-light\&hide_border=true)](https://git.io/streak-stats)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anthony-Vera&theme=meta-light&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -53,14 +53,14 @@ Trabajo con un enfoque claro: **diseño + rendimiento + conversión**.
 ## Actividad
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anthony-Vera&bg_color=ffffff&color=000000&line=000000&point=444444&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anthony-Vera&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" />
 </p>
 
 ---
 
 ## Enfoque
 
-Construyo experiencias digitales que combinan estética moderna, interacción fluida y enfoque en resultados.
+Construyo experiencias digitales modernas, atractivas y enfocadas en resultados reales.
 
 ---
 
