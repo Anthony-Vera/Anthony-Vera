@@ -1,46 +1,69 @@
-Anthony Vera Dev
-Frontend Developer | Landing Pages Specialist | UI/UX Enthusiast
+<p align="center">
+  <img src="https://via.placeholder.com/1200x300.png?text=Anthony+Vera+Dev" alt="Banner Anthony Vera Dev" />
+</p>
 
-🚀 Sobre mí
+<h1 align="center">Anthony Vera Dev</h1>
 
-Hola, soy Anthony Vera, desarrollador enfocado en la creación de experiencias web modernas, elegantes y altamente visuales.
+<p align="center">
+  Desarrollador Frontend • Landing Pages • Experiencias Web Modernas
+</p>
 
-Me especializo en el desarrollo de:
+---
 
-🌐 Landing pages impactantes
-🧊 Interfaces modernas y minimalistas
-🎥 Diseños con animaciones y efectos visuales
-🧠 Experiencias enfocadas en conversión
-🏢 Páginas para negocios y empresas
-🌀 Proyectos con elementos 3D
+<p align="center">
+  Diseño limpio. Animaciones fluidas. Experiencias que convierten.
+</p>
 
-Aunque tengo 20 años, llevo bastante tiempo perfeccionando mi estilo y creando proyectos que destacan tanto en diseño como en funcionalidad.
+---
 
-🎯 En este GitHub encontrarás
-💼 Landing pages para negocios
-🎨 Diseños creativos y modernos
-🧩 Interfaces UI/UX bien pensadas
-⚡ Proyectos optimizados y rápidos
-🧪 Experimentación con animaciones y 3D
-🛠️ Tecnologías que uso
-HTML / CSS / JavaScript
-React
-TailwindCSS
-Framer Motion
-Three.js
-📊 Estadísticas
+## Sobre mí
 
-✨ Filosofía
+Desarrollador enfocado en la creación de interfaces modernas, landing pages de alto impacto y experiencias web visualmente atractivas.
 
-"No solo construyo páginas web, creo experiencias que capturan atención y generan resultados."
+Trabajo con un enfoque claro: **diseño + rendimiento + conversión**.
 
-📫 Contacto
-GitHub: https://github.com/Anthony-Vera
-🧠 Extra
+---
 
-Siempre estoy explorando nuevas formas de hacer que una web se vea:
+## Stack
 
-más fluida
-más atractiva
-más profesional
+<p align="center">
+  HTML • CSS • JavaScript • React  
+  <br/>
+  TailwindCSS • Framer Motion • Three.js
+</p>
 
+---
+
+## Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anthony-Vera&show_icons=true&hide_border=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" height="150" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-Vera&layout=compact&hide_border=true&title_color=000000&text_color=000000&bg_color=ffffff" height="150" />
+</p>
+
+<p align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anthony-Vera\&theme=meta-light\&hide_border=true)](https://git.io/streak-stats)
+
+</p>
+
+---
+
+## Actividad
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anthony-Vera&bg_color=ffffff&color=000000&line=000000&point=444444&area=true&hide_border=true" />
+</p>
+
+---
+
+## Enfoque
+
+Construyo experiencias digitales que combinan estética moderna, interacción fluida y enfoque en resultados.
+
+---
+
+<p align="center">
+  <a href="https://github.com/Anthony-Vera">Ver perfil completo</a>
+</p>
